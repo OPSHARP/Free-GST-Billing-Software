@@ -1,5 +1,29 @@
 <div align="center">
 
+  <!-- 3D DYNAMIC WAVING BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,16,10,4,0&height=220&section=header&text=Free%20GST%20Billing%20Software&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%A7%BE%20100%25%20Free%20%26%20Offline%20GST%20Invoicing%2C%20Tax%20Calculations%20%26%20Reports&descAlignY=62&descAlign=50" width="100%" alt="Free GST Billing Software 3D Banner" />
+
+  <!-- 3D ANIMATED PROJECT ICON -->
+  <a href="https://github.com/OPSHARP/Free-GST-Billing-Software">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Receipt.png" width="95" height="95" alt="Free GST Billing Software 3D Icon" />
+  </a>
+
+  <h1>Free GST Billing Software</h1>
+  <p><b>🧾 100% Free & Offline GST Invoicing, Tax Calculations & Reports</b></p>
+
+  <!-- 3D TECH STACK CARDS -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind&theme=dark" alt="3D Tech Stack" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+
 # Free GST Billing Software — 100% Free, No Subscription, No Limits
 
 ### The only GST invoicing software you'll never have to pay for.
@@ -862,4 +886,10 @@ This project is licensed under the [MIT License](LICENSE) — free to use, modif
 
 Made in India 🇮🇳 · [DiceCodes](https://dicecodes.com)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,16,10,4,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
 </div>
