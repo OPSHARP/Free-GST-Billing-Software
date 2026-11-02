@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,16,10,4,0&height=220&section=header&text=Free%20GST%20Billing%20Software&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%A7%BE%20100%25%20Free%20%26%20Offline%20GST%20Invoicing%2C%20Tax%20Calculations%20%26%20Reports&descAlignY=62&descAlign=50" width="100%" alt="Free GST Billing Software 3D Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,16,10,4,0&height=220&section=header&text=Free%20GST%20Billing%20Software&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%A7%BE%20100%25%20Free%20%E2%80%A2%20Offline%20GST%20Invoicing%2C%20Tax%20Calculations%20%E2%80%A2%20Reports&descAlignY=62&descAlign=50" width="100%" alt="Free GST Billing Software 3D Banner" />
 
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/Free-GST-Billing-Software">
